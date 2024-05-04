@@ -6,7 +6,7 @@ This Node.js application serves as a template for building APIs using Express.js
 ## Installation
 To initialize the application, simply run the following command in your terminal:
 
-npm i
+`npm i`
 
 
 ## MySQL Database Setup
@@ -21,7 +21,7 @@ Navigate to `routes/pool.js` and update the following MySQL credentials accordin
 ## Starting the Application
 To start the application, run the following command:
 
-npm start
+`npm start`
 
 The application will be started at port 3000.
 
