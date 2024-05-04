@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "0ddd0eb1-f4c6-4a0b-9924-2259f9be1b8a",
+		"name": "Hirademy Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24915903"
+	},
+	"item": [
+		{
+			"name": "Addition of New Assistant",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Getting details of the assistant",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Deleting the assistant",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Updating the details of the assistant",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
